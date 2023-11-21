@@ -16,4 +16,4 @@ console.log("Your Guess is Too high. Try Again");
     chances++;
   }
 }while(guess != randomNumber);
-console.log(`You took ${chances} chances to guess the number`);
+console.log(` You took ${chances} chances to guess the number `);
